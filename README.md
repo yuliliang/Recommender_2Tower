@@ -2,7 +2,7 @@
 
 <br>
 <div align="center">
-<img src="demo_image/demo_2Tower.avif" width="300"/>
+<img src="demo_image/2Tower_NN_structrue__details.png" width="500"/>
 </div>
 <br>
 
